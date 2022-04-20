@@ -49,3 +49,6 @@ fetch(`https://api.openweathermap.org/data/2.5/weather?q=Tashkent&units=metric&a
     </div>
         `
     })
+
+
+// api.openweathermap.org foydalandim

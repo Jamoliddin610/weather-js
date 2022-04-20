@@ -1,0 +1,22 @@
+:root{
+    --body-color:#42C2FF;
+
+}
+.clear{
+    --body-color:#712B75;
+}
+.rain{
+    --body-color:#A8AAC4;
+}
+.snow{
+    --body-color: #6BA7CC;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--body-color);
+    font-family: 'Poppins', sans-serif;
+}
